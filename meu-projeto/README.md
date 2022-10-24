@@ -1,0 +1,1 @@
+Olá, o projeto da biblioteca em react foi o meu primeiro contato com a linguagem, nesse projeto eu aprendi sobre componentização do sistema, estilizando componentes, lidando com eventos e propriedades e controlando o estado e a renderização.
